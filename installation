@@ -1,1 +1,3 @@
 
+when we want wo install olaFlow in openfoam,there is something wrong.we need to use the commond  'export PATH=/home/customer/anaconda2/bin/:$PATH' to modify the version of gcc.then we can install the olaFlow .
+
